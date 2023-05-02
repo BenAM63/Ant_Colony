@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    font-family: sans-serif;
+    background: #fafafa;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  #sketch {
+    background: white;
+    line-height: 0;
+  }
